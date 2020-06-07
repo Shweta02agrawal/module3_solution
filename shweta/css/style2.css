@@ -1,0 +1,41 @@
+
+ .navbar-brand h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white;
+  padding-left: 0;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #abc2e8;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #edf4f2;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.heading{
+  text-align: center;
+}
+.panel-footer .container{
+  background-color: #abf0e9;
+}
+.panel-footer{
+  width: 100%;
+  height: 1484px;
+}
+#header-nav{
+  background-color: #222831;
+}
+.sub-heading{
+  text-align: center;
+  font-size: 1.6em;
+}
+.description{
+  margin-top: 20px;
+  font-size: 20px;
+}
